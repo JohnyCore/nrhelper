@@ -5,6 +5,8 @@ After months of dedicated work, I'm thrilled to announce the release of the fina
 
 If for any reason you are afraid to use this mode, there is a command by which you can activate Debug Mode -- [ /debug ]. When enabled, you can test all mod commands so you can use this mod with more confidence.
 
+![image](https://github.com/user-attachments/assets/07a0c1e8-582c-43e9-af55-ff97321f0bea)
+
 
 To start working with NRHelper you need to use [/cmd] command, in order to open the Main Menu:
 
