@@ -3,6 +3,11 @@
 
 After months of dedicated work, I'm thrilled to announce the release of the final version of the NRHelper mod! This update brings several exciting features to enhance your SAMP experience, Thank you for your support and feedback throughout the development process. I hope you find these new features useful and enjoy using the NRHelper mod!
 
+
+If you wanna see all the available commands, use /nrhelp command:
+![image](https://github.com/user-attachments/assets/ef088221-a11e-47d1-9c58-3555490cc2da)
+
+
 If for any reason you are afraid to use this mode, there is a command by which you can activate Debug Mode -- [ /debug ]. When enabled, you can test all mod commands so you can use this mod with more confidence.
 
 ![image](https://github.com/user-attachments/assets/07a0c1e8-582c-43e9-af55-ff97321f0bea)
