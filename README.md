@@ -35,3 +35,6 @@ Link 1: https://drive.google.com/file/d/1lMA6AFA4rvbV-E-4foZ1dDF8geWWlACY/view?u
 Link 2: https://www.mediafire.com/file/39qsdabeh1s186b/NRHelper_v0.9.9_Final.rar/file
 
 Moonloader: https://www.blast.hk/threads/13305/
+
+
+https://youtu.be/l82szedMgiQ
