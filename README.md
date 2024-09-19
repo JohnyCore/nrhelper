@@ -17,7 +17,7 @@ If for any reason you are afraid to use this mode, there is a command by which y
 
 To start working with NRHelper you need to use [/cmd] command, in order to open the Main Menu:
 
-![image](https://github.com/user-attachments/assets/8750143c-1312-4e54-bd3a-52352c11182b)
+![image](https://github.com/user-attachments/assets/4d79faa1-7283-4906-8e62-416fb1de90f7)
 
 
 If you want to read all the changelogs directly from the game, go to /cmd > Settings. There, you can see the latest changelogs and select them to read more details:
