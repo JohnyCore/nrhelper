@@ -6,13 +6,13 @@ After months of dedicated work, I'm thrilled to announce the release of the fina
 
 
 ## Available Commands
-To see all available commands, use the /nrhelp command:
+To see all available commands, use the `/nrhelp` command:
 
 ![image](https://github.com/user-attachments/assets/ef088221-a11e-47d1-9c58-3555490cc2da)
 
 
 ## Debug Mode
-Worried about trying out the mod? No problem! You can activate Debug Mode by using the /debug command. This lets you test all mod commands in a safe environment before using them confidently in your game.
+Worried about trying out the mod? No problem! You can activate Debug Mode by using the `/debug` command. This lets you test all mod commands in a safe environment before using them confidently in your game.
 
 ![image](https://github.com/user-attachments/assets/07a0c1e8-582c-43e9-af55-ff97321f0bea)
 
@@ -24,13 +24,13 @@ To start working with NRHelper, simply use the /cmd command to open the main men
 
 
 ## Changelogs
-Want to read the latest updates and changes directly from the game? Head to /cmd > Settings, where you can see the latest changelogs and select them for more details:
+Want to read the latest updates and changes directly from the game? Head to `/cmd` > `Settings`, where you can see the latest changelogs and select them for more details:
 
 ![image](https://github.com/user-attachments/assets/8836bda1-fb89-44d4-a9d8-48984461ba7c)
 
 
 ## Language Settings
-To change the language of the mod to Romanian, go to /cmd > Settings and click the icon for an easy switch:
+To change the language of the mod to Romanian, go to `/cmd` > `Settings` and click the icon for an easy switch:
 
 ![image](https://github.com/user-attachments/assets/5d4dfa4e-5b3c-48c5-ba05-0e9e149a1a94)
 
