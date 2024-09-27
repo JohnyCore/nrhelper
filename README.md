@@ -1,6 +1,16 @@
-![image](https://github.com/user-attachments/assets/218a1e6d-09af-4e90-a817-7c94e6758219)
+<div align='center'>
+
+# News Reporter Helper
+
+_Empowering News Reporters with Essential Tools for Seamless Gameplay._ <br>
 
 [![Release Version](https://img.shields.io/github/v/release/JohnyCore/nrhelper)](https://github.com/JohnyCore/nrhelper/releases) ![MoonLoader](https://img.shields.io/badge/MoonLoader-compatible-green.svg) ![Lua](https://img.shields.io/badge/lua-5.1-purple.svg)  ![Platform](https://img.shields.io/badge/platform-SAMP-darkgreen.svg)
+
+</div> <br>
+
+![image](https://github.com/user-attachments/assets/218a1e6d-09af-4e90-a817-7c94e6758219)
+
+
 
 After months of dedicated work, I'm thrilled to announce the release of the final version of the NRHelper mod! This update brings several exciting features to enhance your SAMP experience, Thank you for your support and feedback throughout the development process. I hope you find these new features useful and enjoy using the NRHelper mod!
 
