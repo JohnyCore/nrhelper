@@ -54,8 +54,13 @@ To change the language of the mod to Romanian, go to `/cmd` > `Settings` and cli
 | [Moonloader](https://www.blast.hk/threads/13305/) | Moonloader, required for running Lua scripts on SA:MP. |
 | [Installation Tutorial](https://youtu.be/l82szedMgiQ) | A YouTube video tutorial for installation and instructions. |
 
-## Contributing 🤝
+## 📜 License
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+## 🤝 Contributing
 Feel free to submit pull requests or issues if you'd like to improve the mod or report bugs. Contributions are always welcome! 🙌
 
-## Support 💬
+## 💬 Support 
 If you encounter any problems or have suggestions, feel free to open an issue or contact me via Discord at `DjC#3088`.
+
+
