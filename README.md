@@ -47,13 +47,12 @@ To change the language of the mod to Romanian, go to `/cmd` > `Settings` and cli
 
 ## Download Links: 
 
-- Link 1: https://drive.google.com/file/d/1lMA6AFA4rvbV-E-4foZ1dDF8geWWlACY/view?usp=sharing
-
-- Link 2: https://www.mediafire.com/file/39qsdabeh1s186b/NRHelper_v0.9.9_Final.rar/file
-
-- Moonloader: https://www.blast.hk/threads/13305/
-
-- installation tutorial or instructions: https://youtu.be/l82szedMgiQ
+| Link | Description |
+| --- | --- |
+| [Download NRHelper (Google Drive)](https://drive.google.com/file/d/1lMA6AFA4rvbV-E-4foZ1dDF8geWWlACY/view?usp=sharing) | Google Drive link for downloading NRHelper v0.9.9 Final. |
+| [Download NRHelper (MediaFire)](https://www.mediafire.com/file/39qsdabeh1s186b/NRHelper_v0.9.9_Final.rar/file) | MediaFire link for downloading NRHelper v0.9.9 Final. |
+| [Moonloader](https://www.blast.hk/threads/13305/) | Moonloader, required for running Lua scripts on SA:MP. |
+| [Installation Tutorial](https://youtu.be/l82szedMgiQ) | A YouTube video tutorial for installation and instructions. |
 
 ## Contributing 🤝
 Feel free to submit pull requests or issues if you'd like to improve the mod or report bugs. Contributions are always welcome! 🙌
